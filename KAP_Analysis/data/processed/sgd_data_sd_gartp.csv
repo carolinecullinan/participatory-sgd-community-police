@@ -1,0 +1,53 @@
+attribute,category,variable,value
+Female,Gender,Overall Effectiveness,2.656118881118881
+Male,Gender,Overall Effectiveness,2.6737967914438503
+Other,Gender,Overall Effectiveness,3.6083916083916088
+18 - 24,Age,Overall Effectiveness,3.048951048951049
+25 - 34,Age,Overall Effectiveness,2.4504408634843418
+35 - 44,Age,Overall Effectiveness,3.7249417249417243
+45 - 54,Age,Overall Effectiveness,
+55 - 64,Age,Overall Effectiveness,1.1118881118881119
+BIPOC,Race,Overall Effectiveness,2.6637529137529135
+white,Race,Overall Effectiveness,2.7118881118881117
+Total,Total,Overall Effectiveness,2.6890872285609126
+A,Protocol,Overall Effectiveness,2.603249691484985
+B,Protocol,Overall Effectiveness,2.7585747585747584
+Female,Gender,Structure & Flow,2.7384615384615376
+Male,Gender,Structure & Flow,2.6666666666666665
+Other,Gender,Structure & Flow,3.692307692307693
+18 - 24,Age,Structure & Flow,3.0559440559440563
+25 - 34,Age,Structure & Flow,2.490523968784838
+35 - 44,Age,Structure & Flow,3.9145299145299144
+45 - 54,Age,Structure & Flow,
+55 - 64,Age,Structure & Flow,1.1538461538461537
+BIPOC,Race,Structure & Flow,2.6866096866096862
+white,Race,Structure & Flow,2.7717948717948717
+Total,Total,Structure & Flow,2.7314439946018902
+A,Protocol,Structure & Flow,2.633484162895928
+B,Protocol,Structure & Flow,2.81074481074481
+Female,Gender,Usability,2.6041666666666665
+Male,Gender,Usability,2.6425339366515836
+Other,Gender,Usability,3.692307692307693
+18 - 24,Age,Usability,2.9825174825174825
+25 - 34,Age,Usability,2.4141583054626534
+35 - 44,Age,Usability,3.756410256410257
+45 - 54,Age,Usability,
+55 - 64,Age,Usability,1.096153846153846
+BIPOC,Race,Usability,2.5762108262108265
+white,Race,Usability,2.7163461538461537
+Total,Total,Usability,2.649966261808366
+A,Protocol,Usability,2.520739064856712
+B,Protocol,Usability,2.7545787545787546
+Female,Gender,Team Communication,2.646153846153846
+Male,Gender,Team Communication,2.710407239819004
+Other,Gender,Team Communication,3.461538461538462
+18 - 24,Age,Team Communication,3.1101398601398604
+25 - 34,Age,Team Communication,2.4565217391304346
+35 - 44,Age,Team Communication,3.551282051282051
+45 - 54,Age,Team Communication,
+55 - 64,Age,Team Communication,1.096153846153846
+BIPOC,Race,Team Communication,2.733974358974359
+white,Race,Team Communication,2.6624999999999996
+Total,Total,Team Communication,2.6963562753036436
+A,Protocol,Team Communication,2.66289592760181
+B,Protocol,Team Communication,2.7234432234432235

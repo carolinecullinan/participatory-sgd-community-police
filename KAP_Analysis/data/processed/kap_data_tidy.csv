@@ -1,0 +1,482 @@
+RandomID,gender,race_wb,profession,age,protocol,Q*,variable,value
+3955286470,Male,white,Community member,35 - 44,B,B4,pre mean a_pc,1.3333333333333333
+3421154104,Female,white,Community member,25 - 34,B,B5,pre mean a_pc,1.0
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,pre mean a_pc,1.3333333333333333
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,pre mean a_pc,3.0
+6034387383,Female,white,Community member,25 - 34,B,B1,pre mean a_pc,1.3333333333333333
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,pre mean a_pc,2.0
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,pre mean a_pc,2.0
+3413361853,Female,white,Community member,18 - 24,B,B1,pre mean a_pc,2.0
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,pre mean a_pc,2.333333333333333
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,pre mean a_pc,2.333333333333333
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,pre mean a_pc,1.3333333333333333
+9433160120,Male,white,Community member,25 - 34,B,B4,pre mean a_pc,2.0
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,pre mean a_pc,2.6666666666666665
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,pre mean a_pc,2.6666666666666665
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,pre mean a_pc,2.0
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,pre mean a_pc,2.333333333333333
+8194933674,Male,white,Community member,18 - 24,A,A1,pre mean a_pc,1.6666666666666667
+9542137183,Female,white,Community member,18 - 24,A,A1,pre mean a_pc,1.6666666666666667
+8323282184,Male,white,Community member,18 - 24,A,A1,pre mean a_pc,2.0
+4165424527,Male,white,,18 - 24,A,A1,pre mean a_pc,3.0
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,pre mean a_pc,2.6666666666666665
+8864792088,Female,white,Community member,25 - 34,A,A2,pre mean a_pc,3.333333333333333
+8366140919,Female,white,Community member,25 - 34,A,A2,pre mean a_pc,3.6666666666666665
+3648895874,Male,white,Community member,25 - 34,A,A2,pre mean a_pc,3.0
+9789360524,Female,white,Community member,25 - 34,A,A3,pre mean a_pc,4.333333333333333
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,pre mean a_pc,4.0
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,pre mean a_pc,1.6666666666666667
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,pre mean a_pc,2.0
+9059836630,Other,white,Community member,18 - 24,A,A4,pre mean a_pc,1.3333333333333333
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,pre mean a_pc,1.3333333333333333
+1034343201,Male,white,Community member,18 - 24,A,A5,pre mean a_pc,2.333333333333333
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,pre mean a_pc,2.0
+9025272566,Female,white,Community member,55 - 64,A,A5,pre mean a_pc,3.333333333333333
+7671412241,Female,white,Community member,25 - 34,B,B6,pre mean a_pc,2.0
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,pre mean a_pc,2.0
+6603259763,Female,white,Community member,18 - 24,B,B6,pre mean a_pc,1.3333333333333333
+2782470529,Male,white,Community member,25 - 34,B,B6,pre mean a_pc,3.333333333333333
+3955286470,Male,white,Community member,35 - 44,B,B4,pre mean a_er,4.333333333333333
+3421154104,Female,white,Community member,25 - 34,B,B5,pre mean a_er,4.333333333333333
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,pre mean a_er,4.666666666666667
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,pre mean a_er,5.0
+6034387383,Female,white,Community member,25 - 34,B,B1,pre mean a_er,4.333333333333333
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,pre mean a_er,4.333333333333333
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,pre mean a_er,3.333333333333333
+3413361853,Female,white,Community member,18 - 24,B,B1,pre mean a_er,4.666666666666667
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,pre mean a_er,3.333333333333333
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,pre mean a_er,5.0
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,pre mean a_er,3.0
+9433160120,Male,white,Community member,25 - 34,B,B4,pre mean a_er,4.666666666666667
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,pre mean a_er,3.6666666666666665
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,pre mean a_er,5.0
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,pre mean a_er,4.666666666666667
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,pre mean a_er,4.0
+8194933674,Male,white,Community member,18 - 24,A,A1,pre mean a_er,5.0
+9542137183,Female,white,Community member,18 - 24,A,A1,pre mean a_er,4.333333333333333
+8323282184,Male,white,Community member,18 - 24,A,A1,pre mean a_er,3.6666666666666665
+4165424527,Male,white,,18 - 24,A,A1,pre mean a_er,4.0
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,pre mean a_er,4.666666666666667
+8864792088,Female,white,Community member,25 - 34,A,A2,pre mean a_er,4.0
+8366140919,Female,white,Community member,25 - 34,A,A2,pre mean a_er,4.0
+3648895874,Male,white,Community member,25 - 34,A,A2,pre mean a_er,4.0
+9789360524,Female,white,Community member,25 - 34,A,A3,pre mean a_er,5.0
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,pre mean a_er,4.666666666666667
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,pre mean a_er,4.0
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,pre mean a_er,3.333333333333333
+9059836630,Other,white,Community member,18 - 24,A,A4,pre mean a_er,4.0
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,pre mean a_er,4.0
+1034343201,Male,white,Community member,18 - 24,A,A5,pre mean a_er,5.0
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,pre mean a_er,3.333333333333333
+9025272566,Female,white,Community member,55 - 64,A,A5,pre mean a_er,5.0
+7671412241,Female,white,Community member,25 - 34,B,B6,pre mean a_er,4.666666666666667
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,pre mean a_er,2.6666666666666665
+6603259763,Female,white,Community member,18 - 24,B,B6,pre mean a_er,4.333333333333333
+2782470529,Male,white,Community member,25 - 34,B,B6,pre mean a_er,4.333333333333333
+3955286470,Male,white,Community member,35 - 44,B,B4,pre mean p_pc,3.6666666666666665
+3421154104,Female,white,Community member,25 - 34,B,B5,pre mean p_pc,4.0
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,pre mean p_pc,3.333333333333333
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,pre mean p_pc,2.6666666666666665
+6034387383,Female,white,Community member,25 - 34,B,B1,pre mean p_pc,3.333333333333333
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,pre mean p_pc,3.6666666666666665
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,pre mean p_pc,4.0
+3413361853,Female,white,Community member,18 - 24,B,B1,pre mean p_pc,4.333333333333333
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,pre mean p_pc,3.333333333333333
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,pre mean p_pc,5.0
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,pre mean p_pc,3.0
+9433160120,Male,white,Community member,25 - 34,B,B4,pre mean p_pc,4.0
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,pre mean p_pc,4.333333333333333
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,pre mean p_pc,3.0
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,pre mean p_pc,3.333333333333333
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,pre mean p_pc,4.666666666666667
+8194933674,Male,white,Community member,18 - 24,A,A1,pre mean p_pc,3.6666666666666665
+9542137183,Female,white,Community member,18 - 24,A,A1,pre mean p_pc,3.0
+8323282184,Male,white,Community member,18 - 24,A,A1,pre mean p_pc,4.0
+4165424527,Male,white,,18 - 24,A,A1,pre mean p_pc,2.333333333333333
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,pre mean p_pc,3.0
+8864792088,Female,white,Community member,25 - 34,A,A2,pre mean p_pc,3.6666666666666665
+8366140919,Female,white,Community member,25 - 34,A,A2,pre mean p_pc,2.6666666666666665
+3648895874,Male,white,Community member,25 - 34,A,A2,pre mean p_pc,2.6666666666666665
+9789360524,Female,white,Community member,25 - 34,A,A3,pre mean p_pc,3.333333333333333
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,pre mean p_pc,4.666666666666667
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,pre mean p_pc,3.0
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,pre mean p_pc,4.666666666666667
+9059836630,Other,white,Community member,18 - 24,A,A4,pre mean p_pc,3.6666666666666665
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,pre mean p_pc,3.0
+1034343201,Male,white,Community member,18 - 24,A,A5,pre mean p_pc,4.333333333333333
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,pre mean p_pc,5.0
+9025272566,Female,white,Community member,55 - 64,A,A5,pre mean p_pc,2.6666666666666665
+7671412241,Female,white,Community member,25 - 34,B,B6,pre mean p_pc,3.6666666666666665
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,pre mean p_pc,2.333333333333333
+6603259763,Female,white,Community member,18 - 24,B,B6,pre mean p_pc,3.0
+2782470529,Male,white,Community member,25 - 34,B,B6,pre mean p_pc,3.333333333333333
+3955286470,Male,white,Community member,35 - 44,B,B4,pre mean k_pc,1.0
+3421154104,Female,white,Community member,25 - 34,B,B5,pre mean k_pc,1.0
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,pre mean k_pc,1.0
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,pre mean k_pc,0.6666666666666666
+6034387383,Female,white,Community member,25 - 34,B,B1,pre mean k_pc,1.0
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,pre mean k_pc,1.0
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,pre mean k_pc,1.0
+3413361853,Female,white,Community member,18 - 24,B,B1,pre mean k_pc,1.0
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,pre mean k_pc,1.0
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,pre mean k_pc,1.0
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,pre mean k_pc,1.0
+9433160120,Male,white,Community member,25 - 34,B,B4,pre mean k_pc,1.0
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,pre mean k_pc,1.0
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,pre mean k_pc,1.0
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,pre mean k_pc,1.0
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,pre mean k_pc,1.0
+8194933674,Male,white,Community member,18 - 24,A,A1,pre mean k_pc,1.0
+9542137183,Female,white,Community member,18 - 24,A,A1,pre mean k_pc,1.0
+8323282184,Male,white,Community member,18 - 24,A,A1,pre mean k_pc,1.0
+4165424527,Male,white,,18 - 24,A,A1,pre mean k_pc,0.3333333333333333
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,pre mean k_pc,0.6666666666666666
+8864792088,Female,white,Community member,25 - 34,A,A2,pre mean k_pc,1.0
+8366140919,Female,white,Community member,25 - 34,A,A2,pre mean k_pc,0.6666666666666666
+3648895874,Male,white,Community member,25 - 34,A,A2,pre mean k_pc,0.6666666666666666
+9789360524,Female,white,Community member,25 - 34,A,A3,pre mean k_pc,0.6666666666666666
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,pre mean k_pc,1.0
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,pre mean k_pc,1.0
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,pre mean k_pc,1.0
+9059836630,Other,white,Community member,18 - 24,A,A4,pre mean k_pc,1.0
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,pre mean k_pc,1.0
+1034343201,Male,white,Community member,18 - 24,A,A5,pre mean k_pc,1.0
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,pre mean k_pc,1.0
+9025272566,Female,white,Community member,55 - 64,A,A5,pre mean k_pc,1.0
+7671412241,Female,white,Community member,25 - 34,B,B6,pre mean k_pc,1.0
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,pre mean k_pc,1.0
+6603259763,Female,white,Community member,18 - 24,B,B6,pre mean k_pc,1.0
+2782470529,Male,white,Community member,25 - 34,B,B6,pre mean k_pc,1.0
+3955286470,Male,white,Community member,35 - 44,B,B4,post mean a_pc,1.6666666666666667
+3421154104,Female,white,Community member,25 - 34,B,B5,post mean a_pc,1.6666666666666667
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,post mean a_pc,1.3333333333333333
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,post mean a_pc,2.6666666666666665
+6034387383,Female,white,Community member,25 - 34,B,B1,post mean a_pc,1.3333333333333333
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,post mean a_pc,2.0
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,post mean a_pc,2.0
+3413361853,Female,white,Community member,18 - 24,B,B1,post mean a_pc,2.0
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,post mean a_pc,2.6666666666666665
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,post mean a_pc,2.333333333333333
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,post mean a_pc,1.3333333333333333
+9433160120,Male,white,Community member,25 - 34,B,B4,post mean a_pc,2.0
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,post mean a_pc,2.333333333333333
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,post mean a_pc,2.333333333333333
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,post mean a_pc,1.6666666666666667
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,post mean a_pc,2.333333333333333
+8194933674,Male,white,Community member,18 - 24,A,A1,post mean a_pc,1.6666666666666667
+9542137183,Female,white,Community member,18 - 24,A,A1,post mean a_pc,1.6666666666666667
+8323282184,Male,white,Community member,18 - 24,A,A1,post mean a_pc,2.0
+4165424527,Male,white,,18 - 24,A,A1,post mean a_pc,3.0
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,post mean a_pc,2.6666666666666665
+8864792088,Female,white,Community member,25 - 34,A,A2,post mean a_pc,3.6666666666666665
+8366140919,Female,white,Community member,25 - 34,A,A2,post mean a_pc,4.0
+3648895874,Male,white,Community member,25 - 34,A,A2,post mean a_pc,3.0
+9789360524,Female,white,Community member,25 - 34,A,A3,post mean a_pc,4.333333333333333
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,post mean a_pc,4.0
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,post mean a_pc,1.3333333333333333
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,post mean a_pc,4.0
+9059836630,Other,white,Community member,18 - 24,A,A4,post mean a_pc,1.3333333333333333
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,post mean a_pc,1.6666666666666667
+1034343201,Male,white,Community member,18 - 24,A,A5,post mean a_pc,1.6666666666666667
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,post mean a_pc,2.0
+9025272566,Female,white,Community member,55 - 64,A,A5,post mean a_pc,2.6666666666666665
+7671412241,Female,white,Community member,25 - 34,B,B6,post mean a_pc,2.333333333333333
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,post mean a_pc,2.0
+6603259763,Female,white,Community member,18 - 24,B,B6,post mean a_pc,1.3333333333333333
+2782470529,Male,white,Community member,25 - 34,B,B6,post mean a_pc,3.333333333333333
+3955286470,Male,white,Community member,35 - 44,B,B4,post mean a_er,4.0
+3421154104,Female,white,Community member,25 - 34,B,B5,post mean a_er,4.333333333333333
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,post mean a_er,4.666666666666667
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,post mean a_er,5.0
+6034387383,Female,white,Community member,25 - 34,B,B1,post mean a_er,3.0
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,post mean a_er,4.666666666666667
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,post mean a_er,3.6666666666666665
+3413361853,Female,white,Community member,18 - 24,B,B1,post mean a_er,4.666666666666667
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,post mean a_er,3.333333333333333
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,post mean a_er,5.0
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,post mean a_er,3.0
+9433160120,Male,white,Community member,25 - 34,B,B4,post mean a_er,4.333333333333333
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,post mean a_er,3.6666666666666665
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,post mean a_er,5.0
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,post mean a_er,4.666666666666667
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,post mean a_er,4.333333333333333
+8194933674,Male,white,Community member,18 - 24,A,A1,post mean a_er,5.0
+9542137183,Female,white,Community member,18 - 24,A,A1,post mean a_er,4.333333333333333
+8323282184,Male,white,Community member,18 - 24,A,A1,post mean a_er,3.0
+4165424527,Male,white,,18 - 24,A,A1,post mean a_er,4.333333333333333
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,post mean a_er,4.0
+8864792088,Female,white,Community member,25 - 34,A,A2,post mean a_er,4.0
+8366140919,Female,white,Community member,25 - 34,A,A2,post mean a_er,4.0
+3648895874,Male,white,Community member,25 - 34,A,A2,post mean a_er,4.666666666666667
+9789360524,Female,white,Community member,25 - 34,A,A3,post mean a_er,5.0
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,post mean a_er,5.0
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,post mean a_er,4.0
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,post mean a_er,3.333333333333333
+9059836630,Other,white,Community member,18 - 24,A,A4,post mean a_er,3.6666666666666665
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,post mean a_er,4.0
+1034343201,Male,white,Community member,18 - 24,A,A5,post mean a_er,5.0
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,post mean a_er,3.333333333333333
+9025272566,Female,white,Community member,55 - 64,A,A5,post mean a_er,5.0
+7671412241,Female,white,Community member,25 - 34,B,B6,post mean a_er,4.666666666666667
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,post mean a_er,2.6666666666666665
+6603259763,Female,white,Community member,18 - 24,B,B6,post mean a_er,4.333333333333333
+2782470529,Male,white,Community member,25 - 34,B,B6,post mean a_er,4.333333333333333
+3955286470,Male,white,Community member,35 - 44,B,B4,post mean p_pc,3.333333333333333
+3421154104,Female,white,Community member,25 - 34,B,B5,post mean p_pc,4.333333333333333
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,post mean p_pc,3.333333333333333
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,post mean p_pc,3.0
+6034387383,Female,white,Community member,25 - 34,B,B1,post mean p_pc,3.333333333333333
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,post mean p_pc,4.0
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,post mean p_pc,4.333333333333333
+3413361853,Female,white,Community member,18 - 24,B,B1,post mean p_pc,4.666666666666667
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,post mean p_pc,3.333333333333333
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,post mean p_pc,4.0
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,post mean p_pc,2.6666666666666665
+9433160120,Male,white,Community member,25 - 34,B,B4,post mean p_pc,4.666666666666667
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,post mean p_pc,4.333333333333333
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,post mean p_pc,3.6666666666666665
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,post mean p_pc,3.333333333333333
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,post mean p_pc,4.666666666666667
+8194933674,Male,white,Community member,18 - 24,A,A1,post mean p_pc,3.6666666666666665
+9542137183,Female,white,Community member,18 - 24,A,A1,post mean p_pc,3.333333333333333
+8323282184,Male,white,Community member,18 - 24,A,A1,post mean p_pc,3.6666666666666665
+4165424527,Male,white,,18 - 24,A,A1,post mean p_pc,3.333333333333333
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,post mean p_pc,2.6666666666666665
+8864792088,Female,white,Community member,25 - 34,A,A2,post mean p_pc,4.0
+8366140919,Female,white,Community member,25 - 34,A,A2,post mean p_pc,2.0
+3648895874,Male,white,Community member,25 - 34,A,A2,post mean p_pc,2.333333333333333
+9789360524,Female,white,Community member,25 - 34,A,A3,post mean p_pc,3.333333333333333
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,post mean p_pc,4.666666666666667
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,post mean p_pc,3.333333333333333
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,post mean p_pc,5.0
+9059836630,Other,white,Community member,18 - 24,A,A4,post mean p_pc,3.6666666666666665
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,post mean p_pc,3.0
+1034343201,Male,white,Community member,18 - 24,A,A5,post mean p_pc,3.333333333333333
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,post mean p_pc,4.0
+9025272566,Female,white,Community member,55 - 64,A,A5,post mean p_pc,3.333333333333333
+7671412241,Female,white,Community member,25 - 34,B,B6,post mean p_pc,3.333333333333333
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,post mean p_pc,2.6666666666666665
+6603259763,Female,white,Community member,18 - 24,B,B6,post mean p_pc,3.6666666666666665
+2782470529,Male,white,Community member,25 - 34,B,B6,post mean p_pc,3.333333333333333
+3955286470,Male,white,Community member,35 - 44,B,B4,post mean k_pc,1.0
+3421154104,Female,white,Community member,25 - 34,B,B5,post mean k_pc,1.0
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,post mean k_pc,1.0
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,post mean k_pc,1.0
+6034387383,Female,white,Community member,25 - 34,B,B1,post mean k_pc,1.0
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,post mean k_pc,1.0
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,post mean k_pc,1.0
+3413361853,Female,white,Community member,18 - 24,B,B1,post mean k_pc,1.0
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,post mean k_pc,1.0
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,post mean k_pc,1.0
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,post mean k_pc,1.0
+9433160120,Male,white,Community member,25 - 34,B,B4,post mean k_pc,0.6666666666666666
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,post mean k_pc,1.0
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,post mean k_pc,1.0
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,post mean k_pc,1.0
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,post mean k_pc,1.0
+8194933674,Male,white,Community member,18 - 24,A,A1,post mean k_pc,1.0
+9542137183,Female,white,Community member,18 - 24,A,A1,post mean k_pc,1.0
+8323282184,Male,white,Community member,18 - 24,A,A1,post mean k_pc,1.0
+4165424527,Male,white,,18 - 24,A,A1,post mean k_pc,0.6666666666666666
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,post mean k_pc,0.6666666666666666
+8864792088,Female,white,Community member,25 - 34,A,A2,post mean k_pc,1.0
+8366140919,Female,white,Community member,25 - 34,A,A2,post mean k_pc,0.6666666666666666
+3648895874,Male,white,Community member,25 - 34,A,A2,post mean k_pc,0.3333333333333333
+9789360524,Female,white,Community member,25 - 34,A,A3,post mean k_pc,0.6666666666666666
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,post mean k_pc,1.0
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,post mean k_pc,1.0
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,post mean k_pc,0.6666666666666666
+9059836630,Other,white,Community member,18 - 24,A,A4,post mean k_pc,1.0
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,post mean k_pc,1.0
+1034343201,Male,white,Community member,18 - 24,A,A5,post mean k_pc,1.0
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,post mean k_pc,1.0
+9025272566,Female,white,Community member,55 - 64,A,A5,post mean k_pc,0.6666666666666666
+7671412241,Female,white,Community member,25 - 34,B,B6,post mean k_pc,0.6666666666666666
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,post mean k_pc,1.0
+6603259763,Female,white,Community member,18 - 24,B,B6,post mean k_pc,1.0
+2782470529,Male,white,Community member,25 - 34,B,B6,post mean k_pc,1.0
+3955286470,Male,white,Community member,35 - 44,B,B4,diff_a_pc,0.3333333333333335
+3421154104,Female,white,Community member,25 - 34,B,B5,diff_a_pc,0.6666666666666667
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,diff_a_pc,0.0
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,diff_a_pc,-0.3333333333333335
+6034387383,Female,white,Community member,25 - 34,B,B1,diff_a_pc,0.0
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,diff_a_pc,0.0
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,diff_a_pc,0.0
+3413361853,Female,white,Community member,18 - 24,B,B1,diff_a_pc,0.0
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,diff_a_pc,0.33333333333333304
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,diff_a_pc,0.0
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,diff_a_pc,0.0
+9433160120,Male,white,Community member,25 - 34,B,B4,diff_a_pc,0.0
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,diff_a_pc,-0.33333333333333304
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,diff_a_pc,-0.33333333333333304
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,diff_a_pc,-0.3333333333333333
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,diff_a_pc,0.0
+8194933674,Male,white,Community member,18 - 24,A,A1,diff_a_pc,0.0
+9542137183,Female,white,Community member,18 - 24,A,A1,diff_a_pc,0.0
+8323282184,Male,white,Community member,18 - 24,A,A1,diff_a_pc,0.0
+4165424527,Male,white,,18 - 24,A,A1,diff_a_pc,0.0
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,diff_a_pc,0.0
+8864792088,Female,white,Community member,25 - 34,A,A2,diff_a_pc,0.33333333333333304
+8366140919,Female,white,Community member,25 - 34,A,A2,diff_a_pc,0.3333333333333335
+3648895874,Male,white,Community member,25 - 34,A,A2,diff_a_pc,0.0
+9789360524,Female,white,Community member,25 - 34,A,A3,diff_a_pc,0.0
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,diff_a_pc,0.0
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,diff_a_pc,-0.3333333333333335
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,diff_a_pc,2.0
+9059836630,Other,white,Community member,18 - 24,A,A4,diff_a_pc,0.0
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,diff_a_pc,0.3333333333333335
+1034343201,Male,white,Community member,18 - 24,A,A5,diff_a_pc,-0.6666666666666667
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,diff_a_pc,0.0
+9025272566,Female,white,Community member,55 - 64,A,A5,diff_a_pc,-0.666666666666667
+7671412241,Female,white,Community member,25 - 34,B,B6,diff_a_pc,0.3333333333333335
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,diff_a_pc,0.0
+6603259763,Female,white,Community member,18 - 24,B,B6,diff_a_pc,0.0
+2782470529,Male,white,Community member,25 - 34,B,B6,diff_a_pc,0.0
+3955286470,Male,white,Community member,35 - 44,B,B4,diff_a_er,-0.33333333333333304
+3421154104,Female,white,Community member,25 - 34,B,B5,diff_a_er,0.0
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,diff_a_er,0.0
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,diff_a_er,0.0
+6034387383,Female,white,Community member,25 - 34,B,B1,diff_a_er,-1.333333333333333
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,diff_a_er,0.3333333333333339
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,diff_a_er,0.33333333333333304
+3413361853,Female,white,Community member,18 - 24,B,B1,diff_a_er,0.0
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,diff_a_er,0.0
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,diff_a_er,0.0
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,diff_a_er,0.0
+9433160120,Male,white,Community member,25 - 34,B,B4,diff_a_er,-0.3333333333333339
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,diff_a_er,0.0
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,diff_a_er,0.0
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,diff_a_er,0.0
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,diff_a_er,0.33333333333333304
+8194933674,Male,white,Community member,18 - 24,A,A1,diff_a_er,0.0
+9542137183,Female,white,Community member,18 - 24,A,A1,diff_a_er,0.0
+8323282184,Male,white,Community member,18 - 24,A,A1,diff_a_er,-0.6666666666666665
+4165424527,Male,white,,18 - 24,A,A1,diff_a_er,0.33333333333333304
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,diff_a_er,-0.666666666666667
+8864792088,Female,white,Community member,25 - 34,A,A2,diff_a_er,0.0
+8366140919,Female,white,Community member,25 - 34,A,A2,diff_a_er,0.0
+3648895874,Male,white,Community member,25 - 34,A,A2,diff_a_er,0.666666666666667
+9789360524,Female,white,Community member,25 - 34,A,A3,diff_a_er,0.0
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,diff_a_er,0.33333333333333304
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,diff_a_er,0.0
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,diff_a_er,0.0
+9059836630,Other,white,Community member,18 - 24,A,A4,diff_a_er,-0.3333333333333335
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,diff_a_er,0.0
+1034343201,Male,white,Community member,18 - 24,A,A5,diff_a_er,0.0
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,diff_a_er,0.0
+9025272566,Female,white,Community member,55 - 64,A,A5,diff_a_er,0.0
+7671412241,Female,white,Community member,25 - 34,B,B6,diff_a_er,0.0
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,diff_a_er,0.0
+6603259763,Female,white,Community member,18 - 24,B,B6,diff_a_er,0.0
+2782470529,Male,white,Community member,25 - 34,B,B6,diff_a_er,0.0
+3955286470,Male,white,Community member,35 - 44,B,B4,diff_p_pc,-0.33333333333333304
+3421154104,Female,white,Community member,25 - 34,B,B5,diff_p_pc,0.33333333333333304
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,diff_p_pc,0.0
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,diff_p_pc,0.3333333333333335
+6034387383,Female,white,Community member,25 - 34,B,B1,diff_p_pc,0.0
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,diff_p_pc,0.3333333333333335
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,diff_p_pc,0.33333333333333304
+3413361853,Female,white,Community member,18 - 24,B,B1,diff_p_pc,0.3333333333333339
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,diff_p_pc,0.0
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,diff_p_pc,-1.0
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,diff_p_pc,-0.3333333333333335
+9433160120,Male,white,Community member,25 - 34,B,B4,diff_p_pc,0.666666666666667
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,diff_p_pc,0.0
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,diff_p_pc,0.6666666666666665
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,diff_p_pc,0.0
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,diff_p_pc,0.0
+8194933674,Male,white,Community member,18 - 24,A,A1,diff_p_pc,0.0
+9542137183,Female,white,Community member,18 - 24,A,A1,diff_p_pc,0.3333333333333335
+8323282184,Male,white,Community member,18 - 24,A,A1,diff_p_pc,-0.3333333333333335
+4165424527,Male,white,,18 - 24,A,A1,diff_p_pc,1.0
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,diff_p_pc,-0.3333333333333335
+8864792088,Female,white,Community member,25 - 34,A,A2,diff_p_pc,0.3333333333333335
+8366140919,Female,white,Community member,25 - 34,A,A2,diff_p_pc,-0.6666666666666665
+3648895874,Male,white,Community member,25 - 34,A,A2,diff_p_pc,-0.33333333333333304
+9789360524,Female,white,Community member,25 - 34,A,A3,diff_p_pc,0.0
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,diff_p_pc,0.0
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,diff_p_pc,0.3333333333333335
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,diff_p_pc,0.33333333333333304
+9059836630,Other,white,Community member,18 - 24,A,A4,diff_p_pc,0.0
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,diff_p_pc,0.0
+1034343201,Male,white,Community member,18 - 24,A,A5,diff_p_pc,-0.9999999999999996
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,diff_p_pc,-1.0
+9025272566,Female,white,Community member,55 - 64,A,A5,diff_p_pc,0.666666666666667
+7671412241,Female,white,Community member,25 - 34,B,B6,diff_p_pc,-0.33333333333333304
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,diff_p_pc,0.33333333333333304
+6603259763,Female,white,Community member,18 - 24,B,B6,diff_p_pc,0.6666666666666665
+2782470529,Male,white,Community member,25 - 34,B,B6,diff_p_pc,0.0
+3955286470,Male,white,Community member,35 - 44,B,B4,diff_k_pc,0.0
+3421154104,Female,white,Community member,25 - 34,B,B5,diff_k_pc,0.0
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,diff_k_pc,0.0
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,diff_k_pc,0.33333333333333337
+6034387383,Female,white,Community member,25 - 34,B,B1,diff_k_pc,0.0
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,diff_k_pc,0.0
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,diff_k_pc,0.0
+3413361853,Female,white,Community member,18 - 24,B,B1,diff_k_pc,0.0
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,diff_k_pc,0.0
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,diff_k_pc,0.0
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,diff_k_pc,0.0
+9433160120,Male,white,Community member,25 - 34,B,B4,diff_k_pc,-0.33333333333333337
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,diff_k_pc,0.0
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,diff_k_pc,0.0
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,diff_k_pc,0.0
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,diff_k_pc,0.0
+8194933674,Male,white,Community member,18 - 24,A,A1,diff_k_pc,0.0
+9542137183,Female,white,Community member,18 - 24,A,A1,diff_k_pc,0.0
+8323282184,Male,white,Community member,18 - 24,A,A1,diff_k_pc,0.0
+4165424527,Male,white,,18 - 24,A,A1,diff_k_pc,0.3333333333333333
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,diff_k_pc,0.0
+8864792088,Female,white,Community member,25 - 34,A,A2,diff_k_pc,0.0
+8366140919,Female,white,Community member,25 - 34,A,A2,diff_k_pc,0.0
+3648895874,Male,white,Community member,25 - 34,A,A2,diff_k_pc,-0.3333333333333333
+9789360524,Female,white,Community member,25 - 34,A,A3,diff_k_pc,0.0
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,diff_k_pc,0.0
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,diff_k_pc,0.0
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,diff_k_pc,-0.33333333333333337
+9059836630,Other,white,Community member,18 - 24,A,A4,diff_k_pc,0.0
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,diff_k_pc,0.0
+1034343201,Male,white,Community member,18 - 24,A,A5,diff_k_pc,0.0
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,diff_k_pc,0.0
+9025272566,Female,white,Community member,55 - 64,A,A5,diff_k_pc,-0.33333333333333337
+7671412241,Female,white,Community member,25 - 34,B,B6,diff_k_pc,-0.33333333333333337
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,diff_k_pc,0.0
+6603259763,Female,white,Community member,18 - 24,B,B6,diff_k_pc,0.0
+2782470529,Male,white,Community member,25 - 34,B,B6,diff_k_pc,0.0
+3955286470,Male,white,Community member,35 - 44,B,B4,sd_score,0.8461538461538461
+3421154104,Female,white,Community member,25 - 34,B,B5,sd_score,0.7692307692307692
+1878269020,Male,BIPOC,Community member,25 - 34,B,B2,sd_score,0.5384615384615384
+4855207987,Female,BIPOC,Community member,35 - 44,B,B2,sd_score,1.0
+6034387383,Female,white,Community member,25 - 34,B,B1,sd_score,0.8461538461538461
+9237049872,Female,BIPOC,Community member,25 - 34,B,B2,sd_score,0.8461538461538461
+8645952153,Female,BIPOC,Community member,25 - 34,B,B2,sd_score,0.5384615384615384
+3413361853,Female,white,Community member,18 - 24,B,B1,sd_score,0.5384615384615384
+3448845540,Female,BIPOC,Community member,25 - 34,B,B1,sd_score,0.5384615384615384
+8185810064,Female,BIPOC,Community member,25 - 34,B,B4,sd_score,0.5384615384615384
+1517216183,Male,BIPOC,Community member,18 - 24,B,B4,sd_score,0.3846153846153846
+9433160120,Male,white,Community member,25 - 34,B,B4,sd_score,0.6153846153846154
+1622652610,Female,BIPOC,Law enforcement officer OR Former law enforcement officer OR Closely associated with law enforcement,25 - 34,B,B3,sd_score,0.7692307692307692
+6634327767,Female,BIPOC,Community member,25 - 34,B,B3,sd_score,0.3846153846153846
+8036511945,Male,BIPOC,Community member,18 - 24,B,B5,sd_score,0.9230769230769232
+7209841049,Female,BIPOC,Community member,35 - 44,B,B5,sd_score,0.7692307692307692
+8194933674,Male,white,Community member,18 - 24,A,A1,sd_score,0.3846153846153846
+9542137183,Female,white,Community member,18 - 24,A,A1,sd_score,0.9230769230769232
+8323282184,Male,white,Community member,18 - 24,A,A1,sd_score,0.6153846153846154
+4165424527,Male,white,,18 - 24,A,A1,sd_score,0.6923076923076923
+7414114848,Female,BIPOC,Community member,25 - 34,A,A2,sd_score,0.5384615384615384
+8864792088,Female,white,Community member,25 - 34,A,A2,sd_score,0.7692307692307692
+8366140919,Female,white,Community member,25 - 34,A,A2,sd_score,0.3846153846153846
+3648895874,Male,white,Community member,25 - 34,A,A2,sd_score,0.4615384615384616
+9789360524,Female,white,Community member,25 - 34,A,A3,sd_score,0.6923076923076923
+5450274185,Female,BIPOC,Community member,25 - 34,A,A3,sd_score,0.3846153846153846
+7938418060,Male,BIPOC,Community member,25 - 34,A,A3,sd_score,0.7692307692307692
+2810705804,Male,BIPOC,Community member,25 - 34,A,A4,sd_score,0.7692307692307692
+9059836630,Other,white,Community member,18 - 24,A,A4,sd_score,0.9230769230769232
+3744684443,Male,BIPOC,Community member,25 - 34,A,A4,sd_score,0.7692307692307692
+1034343201,Male,white,Community member,18 - 24,A,A5,sd_score,0.5384615384615384
+3489602219,Male,BIPOC,Community member,25 - 34,A,A5,sd_score,0.3846153846153846
+9025272566,Female,white,Community member,55 - 64,A,A5,sd_score,0.23076923076923075
+7671412241,Female,white,Community member,25 - 34,B,B6,sd_score,0.8461538461538461
+7124352876,Male,BIPOC,Community member,18 - 24,B,B6,sd_score,0.8461538461538461
+6603259763,Female,white,Community member,18 - 24,B,B6,sd_score,0.6923076923076923
+2782470529,Male,white,Community member,25 - 34,B,B6,sd_score,0.4615384615384616

@@ -1,0 +1,7 @@
+unique_id,workshop_id,sn_type,sn_id,sn_content,sn_clean,sn_token,sn_token_str,compound_s,positive_s,negative_s,neutral_s
+B1_U1,B1,U,U1,yes its public,yes its public,"['yes', 'public']",yes public,0.4019,0.574,0.0,0.426
+B1_U2,B1,U,U2,Group result: overview of lessons learned and conclusions come to,group result overview of lessons learned and conclusions come to,"['group', 'result', 'overview', 'lesson', 'learn', 'conclusion', 'come']",group result overview lesson learn conclusion come,0.0,0.0,0.0,1.0
+B1_U3,B1,U,U3,building up of cards and interplayer communication,building up of cards and interplayer communication,"['build', 'card', 'interplayer', 'communication']",build card interplayer communication,0.0,0.0,0.0,1.0
+B1_U4,B1,U,U4,card counting at end of final round,card counting at end of final round,"['card', 'counting', 'end', 'final', 'round']",card counting end final round,0.0,0.0,0.0,1.0
+B6_U1,B6,U,U1,"Not provided, user can provide for themselves if they feel they are progressing",not provided user can provide for themselves if they feel they are progressing,"['not', 'provide', 'user', 'provide', 'feel', 'progress']",not provide user provide feel progress,0.0,0.0,0.0,1.0
+B6_U2,B6,U,U2,everyone will know the result because decided together,everyone will know the result because decided together,"['know', 'result', 'decide']",know result decide,0.0,0.0,0.0,1.0

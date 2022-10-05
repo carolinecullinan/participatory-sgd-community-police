@@ -1,0 +1,3 @@
+During initial data creation when the Conceptboard sticky notes were brought into a .csv,
+scene setting text, such as "Learning Outcomes:", "Feedback:", "Genre"", etc. was removed
+by hand to ensure that further analysis would not end with skewed results

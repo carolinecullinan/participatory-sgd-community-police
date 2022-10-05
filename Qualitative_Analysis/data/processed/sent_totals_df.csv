@@ -1,0 +1,10 @@
+sent_cat,count,dataset
+Neutral,52,Workshop A
+Positive,49,Workshop A
+Negative,36,Workshop A
+Neutral,49,Workshop B
+Positive,36,Workshop B
+Negative,18,Workshop B
+Neutral,101,Total
+Positive,85,Total
+Negative,54,Total
